@@ -1,0 +1,36 @@
+table,
+th,
+td {
+  align-items: center;
+  text-align: center;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: 5px;
+}
+
+table {
+  width: 50vw;
+  justify-content: center;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
+#table2 {
+  margin-top: 15px;
+}
+
+.printing {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  /* width: 100%;
+  height: 100%; */
+  font-size: larger;
+}
+#table1 {
+  margin-top: 50px;
+}

@@ -1,0 +1,15 @@
+.print {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px;
+}
+.print-table-1 {
+  margin: 15px;
+  margin-bottom: 0;
+}
+.borderset {
+  padding: 20px;
+  margin: 20px;
+}
